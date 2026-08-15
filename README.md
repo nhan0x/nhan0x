@@ -85,7 +85,7 @@
 ## 📫 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-nhanty00234--crypto-181717?style=flat&logo=github)](https://github.com/nhanty00234-crypto)
-[![Email](https://img.shields.io/badge/Email-dodangkhoa907@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dodangkhoa907@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nhanntty00234@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nhanntty00234@gmail.com)
 
 ---
 
