@@ -7,7 +7,7 @@ Based in Vietnam. Looking for a junior or internship position.
 
 ## Skills
 
-| | |
+| Area | Stack |
 |---|---|
 | **Languages** | Java, C#, JavaScript, SQL |
 | **Backend** | Spring Boot, ASP.NET Core, REST API |
