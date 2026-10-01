@@ -1,4 +1,4 @@
-# Nhan
+<img src="assets/banner.svg" alt="Thiện Nhân, Software Engineer" width="100%">
 
 Software Engineer focused on Java backend and web applications.
 Based in Vietnam. Looking for a junior or internship position.
@@ -42,5 +42,5 @@ Landing page for a tea business, with an admin dashboard for revenue reporting.
 
 ## Contact
 
-- Email: [nhanntty00234@gmail.com](mailto:nhanntty00234@gmail.com)
+- Email: [nhanty00234@gmail.com](mailto:nhanty00234@gmail.com)
 - GitHub: [nhanty00234-crypto](https://github.com/nhanty00234-crypto)
