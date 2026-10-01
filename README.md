@@ -1,6 +1,6 @@
 # Nhan
 
-Fullstack developer in training, focused on Java backend and web applications.
+Software Engineer focused on Java backend and web applications.
 Based in Vietnam. Looking for a junior or internship position.
 
 ---
